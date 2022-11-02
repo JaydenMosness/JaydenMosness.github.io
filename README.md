@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
+Accept: <MIME_type>/<MIME_subtype>
+Accept: <MIME_type>/*
+Accept: */*
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-<body>
-    <h1>Northern Colorado Greenscapes</h1>
-</body>
-
-</html>
-
+// Multiple types, weighted with the quality value syntax:
+Accept: text/html, application/xhtml+xml, application/xml;q=0.9, image/webp, */*;q=0.8
