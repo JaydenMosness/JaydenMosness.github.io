@@ -1,0 +1,13 @@
+/* ----------------------------------------------- */
+/* HTML Elements */
+* {
+    padding: 0px;
+    margin: 0px;
+    color: black;
+    
+}
+
+div.class{
+    box-shadow: black;
+
+}
